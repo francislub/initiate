@@ -31,10 +31,16 @@ export default function Navigation() {
               <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all">
                 <div className="py-1">
                   <Link href="/programs" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Our Programs
+                    STRATEGIC DOMAINS
                   </Link>
                   <Link href="/impact" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Our Impact
+                    PROJECTS
+                  </Link>
+                  <Link href="/programs" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    IMPACT
+                  </Link>
+                  <Link href="/impact" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    DRIVING CHANGE
                   </Link>
                 </div>
               </div>
@@ -52,7 +58,10 @@ export default function Navigation() {
                     About Us
                   </Link>
                   <Link href="/team" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Our Team
+                    OUR STORY
+                  </Link>
+                  <Link href="/team" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    OUR TEAM
                   </Link>
                 </div>
               </div>
@@ -67,10 +76,13 @@ export default function Navigation() {
               <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all">
                 <div className="py-1">
                   <Link href="/volunteer" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Volunteer
+                    EVENTS
                   </Link>
                   <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Partner With Us
+                    DONATE
+                  </Link>
+                  <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    PURCHASE
                   </Link>
                 </div>
               </div>
@@ -85,10 +97,13 @@ export default function Navigation() {
               <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all">
                 <div className="py-1">
                   <Link href="/news" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    News
+                    MEDIA & ADVOCACY
                   </Link>
                   <Link href="/blog" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
-                    Blog
+                    PODCASTS
+                  </Link>
+                  <Link href="/blog" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                    BLOGS
                   </Link>
                 </div>
               </div>

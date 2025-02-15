@@ -1,5 +1,7 @@
+import FeaturedVideo from "../components/featured-video";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
+import ImpactStatistics from "../components/impact-statistics";
 import Navigation from "../components/navigation";
 import TopBar from "../components/top-bar";
 
@@ -11,6 +13,8 @@ export default function Home() {
       <Navigation />
       <main className="flex-grow">
         <Hero />
+        <ImpactStatistics />
+      <FeaturedVideo />
         {/* Add other sections here */}
       </main>
       <Footer />
