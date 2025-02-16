@@ -9,15 +9,12 @@ import TopBar from "../components/top-bar";
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
-      <TopBar />
-      <Navigation />
       <main className="flex-grow">
         <Hero />
         <ImpactStatistics />
-      <FeaturedVideo />
+        <FeaturedVideo />
         {/* Add other sections here */}
       </main>
-      <Footer />
     </div>
   )
 }

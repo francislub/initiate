@@ -5,7 +5,7 @@ import { Search, User } from "lucide-react"
 export default function Navigation() {
   return (
     <nav className="bg-white shadow">
-      <div className=" mx-auto px-4">
+      <div className="relative z-50 mx-auto px-4">
         <div className="flex justify-between items-center lg:h-28">
           <Link href="/" className="flex-shrink-0">
             <Image
@@ -30,7 +30,7 @@ export default function Navigation() {
               </button>
               <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all">
                 <div className="py-1">
-                  <Link href="/programs" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  <Link href="/domain" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     STRATEGIC DOMAINS
                   </Link>
                   <Link href="/impact" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
