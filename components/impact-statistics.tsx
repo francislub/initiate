@@ -37,11 +37,11 @@ const Statistic = ({ icon, number, title, description }: StatisticProps) => {
 
   return (
     <div className="flex flex-col items-center text-center p-6">
-      <div className="mb-4 text-[#E43F6F]">{icon}</div>
+      <div className="mb-4 text-green-400">{icon}</div>
       <div className="text-4xl font-bold mb-2">
         <span ref={countRef}>0</span>
       </div>
-      <h3 className="text-xl font-semibold text-[#E43F6F] mb-2">{title}</h3>
+      <h3 className="text-xl font-semibold text-green-400 mb-2">{title}</h3>
       <p className="text-gray-600">{description}</p>
     </div>
   )

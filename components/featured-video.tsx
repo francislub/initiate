@@ -11,7 +11,7 @@ export default function FeaturedVideo() {
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-12">
           <div className="space-y-6">
-            <div className="inline-block px-4 py-1 bg-pink-100 text-[#E43F6F] rounded-full text-sm font-medium">
+            <div className="inline-block px-4 py-1 bg-pink-100 text-green-400 rounded-full text-sm font-medium">
               GLOBAL SPACE
             </div>
             <h2 className="text-3xl md:text-4xl font-bold">

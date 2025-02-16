@@ -8,13 +8,13 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <Image
-              src="/initiate/log.jpg"
-              alt="Initiate"
-              width={200}
-              height={80}
-              className="mb-6"
-            />
+          <Image
+            src="/initiate/log.jpg"
+            alt="Initiate"
+            width={200}
+            height={80}
+            className="mb-6 rounded-full"
+          />
             <p className="text-gray-400 mb-6">Empowering girls and young women to achieve their full potential</p>
             <div className="flex space-x-4">
               <Link href="#" className="text-gray-400 hover:text-white">
@@ -100,15 +100,15 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
             <ul className="space-y-4">
               <li className="flex items-start space-x-3">
-                <MapPin className="h-6 w-6 text-[#E43F6F]" />
+                <MapPin className="h-6 w-6 text-green-400" />
                 <span className="text-gray-400">Plot 47 Ntinda II Road, Kampala, Uganda</span>
               </li>
               <li className="flex items-center space-x-3">
-                <Phone className="h-6 w-6 text-[#E43F6F]" />
+                <Phone className="h-6 w-6 text-green-400" />
                 <span className="text-gray-400">+256 414 667 630</span>
               </li>
               <li className="flex items-center space-x-3">
-                <Mail className="h-6 w-6 text-[#E43F6F]" />
+                <Mail className="h-6 w-6 text-green-400" />
                 <span className="text-gray-400">info@girlupuganda.org</span>
               </li>
             </ul>

@@ -52,7 +52,7 @@ export default function TopBar() {
           </div>
           <Link
             href="/donate"
-            className="bg-[#E43F6F] text-white px-6 py-1 rounded-full hover:bg-opacity-90 transition-colors mt-2 md:mt-0"
+            className="bg-green-600 text-white px-6 py-1 rounded-full hover:bg-opacity-90 transition-colors mt-2 md:mt-0"
           >
             DONATE →
           </Link>

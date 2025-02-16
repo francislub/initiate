@@ -19,7 +19,7 @@ const StatCard = ({ icon, number, description }: StatProps) => {
       viewport={{ once: true }}
       className="flex flex-col items-center text-center p-6"
     >
-      <div className="text-[#E43F6F] mb-4">{icon}</div>
+      <div className="text-green-400 mb-4">{icon}</div>
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}

@@ -45,7 +45,7 @@ export default function Hero() {
           </h1>
           <Link
             href="/donate"
-            className="bg-[#E43F6F] text-white px-8 py-3 rounded-full text-lg hover:bg-opacity-90 transition-colors"
+            className="bg-green-600 text-white px-8 py-3 rounded-full text-lg hover:bg-opacity-90 transition-colors"
           >
             DONATE →
           </Link>
