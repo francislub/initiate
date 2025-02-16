@@ -4,7 +4,7 @@ import { ProgramsSection } from "../../components/project/program-section";
 
 
 
-export default function Domain() {
+export default function Project() {
     
 
     return (
