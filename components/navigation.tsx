@@ -39,7 +39,7 @@ export default function Navigation() {
                   <Link href="/impact" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     IMPACT
                   </Link>
-                  <Link href="/impact" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  <Link href="/" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     DRIVING CHANGE
                   </Link>
                 </div>
