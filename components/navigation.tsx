@@ -57,7 +57,7 @@ export default function Navigation() {
                   <Link href="/about" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     About Us
                   </Link>
-                  <Link href="/team" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  <Link href="/story" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     OUR STORY
                   </Link>
                   <Link href="/team" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
@@ -81,9 +81,9 @@ export default function Navigation() {
                   <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     DONATE
                   </Link>
-                  <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  {/* <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     PURCHASE
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>

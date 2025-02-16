@@ -4,7 +4,7 @@ import ProfessionalTeam from "../../components/team/professional-team";
 
 
 
-export default function Project() {
+export default function Team() {
     
 
     return (
