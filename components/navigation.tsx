@@ -75,10 +75,10 @@ export default function Navigation() {
               </button>
               <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all">
                 <div className="py-1">
-                  <Link href="/volunteer" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  <Link href="/event" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     EVENTS
                   </Link>
-                  <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                  <Link href="/donate" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                     DONATE
                   </Link>
                   {/* <Link href="/partner" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
