@@ -8,9 +8,9 @@ export default function Hero() {
   const [currentSlide, setCurrentSlide] = useState(0)
 
   const slides = [
-    "/placeholder.svg?height=600&width=1600",
-    "/placeholder.svg?height=600&width=1600",
-    "/placeholder.svg?height=600&width=1600",
+    "/initiate/chil.jpg?height=600&width=1600",
+    "/initiate/chil1.jpg?height=600&width=1600",
+    "/initiate/chil2.jpg?height=600&width=1600",
   ]
 
   useEffect(() => {
