@@ -25,7 +25,7 @@ export default function DirectorsMessage() {
             </button>
           </div>
   
-          <div className="w-full md:w-[450px] h-[450px] relative">
+          <div className="w-full md:w-[450px] h-[450px] relative rounded-full overflow-hidden">
             <div className="absolute inset-0 rounded-full overflow-hidden">
               <img
                 src="/initiate/ceo.jpg"
