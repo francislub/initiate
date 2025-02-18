@@ -1,4 +1,3 @@
-import ContactPage from "../../contact-page/";
 import ContactPageOne from "../../components/contact/contact";
 
 
