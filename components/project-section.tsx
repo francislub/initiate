@@ -19,7 +19,7 @@ export default function ProjectsSection() {
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3">SRHR4ALL Project</h3>
+                <h3 className="text-xl font-bold mb-3">Mental health literacy for everyone </h3>
                 <p className="text-gray-600 text-sm">
                   Straight Talk Foundation (STF) with support from SONKE Gender Justice is implementing a five-year
                   project, Sexual Reproductive Health and Rights Strategies for...
@@ -39,7 +39,7 @@ export default function ProjectsSection() {
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3">Bidi Bidi Community Radio</h3>
+                <h3 className="text-xl font-bold mb-3">A person A journal                </h3>
                 <p className="text-gray-600 text-sm">
                   Straight Talk Foundation (STF) in partnership with UNHCR, REF FM and DW Akademie, is managing a
                   community radio station, Bidibidi FM, in Bidibidi Refugee Settle...
@@ -59,7 +59,7 @@ export default function ProjectsSection() {
                 </div>
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-3">ADRA TOGETHER PROJECT</h3>
+                <h3 className="text-xl font-bold mb-3">A book for every child</h3>
                 <p className="text-gray-600 text-sm">
                   Uniting Towards Gender Equality for Enjoyment of Women and Girls total health and Rights (TOGETHER)
                   project is implemented by Straight Talk Foundation and Mifumi...

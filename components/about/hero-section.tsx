@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <div className="relative h-[600px] w-full">
       <Image
-        src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/about.PNG-npGVLCL9WVgyd7WiTKWuhB0mI3uvKJ.png"
+        src="/initiate/chil2.jpg"
         alt="Group of students with mentor from Girl Up Initiative Uganda"
         fill
         className="object-cover brightness-90"

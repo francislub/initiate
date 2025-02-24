@@ -11,7 +11,7 @@ export default function VisionMission() {
               <Eye className="h-8 w-8 text-pink-500" />
               <h3 className="text-xl font-semibold">Our Vision</h3>
             </div>
-            <p className="text-gray-600">A gender-equal world where girls thrive and lead</p>
+            <p className="text-gray-600"> Self-aware, literate,accountable , responsible, mentally stable individuals in society.</p>
           </div>
 
           <div className="rounded-lg border border-gray-100 p-8 shadow-sm transition-shadow hover:shadow-md">
@@ -20,8 +20,7 @@ export default function VisionMission() {
               <h3 className="text-xl font-semibold">Our Mission</h3>
             </div>
             <p className="text-gray-600">
-              To build a vibrant movement of girls and young women through transformative leadership, sexual and
-              reproductive health education, and skills development.
+            Advocating for individual affirmative action towards addressing societal challenges.
             </p>
           </div>
         </div>

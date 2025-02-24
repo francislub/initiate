@@ -53,7 +53,7 @@ export default function ContactPageOne() {
                 <MapPin className="w-6 h-6 text-red-600 mt-1" />
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Location</h3>
-                  <p className="text-gray-600">Plot 4, Acacia Avenue, Kololo</p>
+                  <p className="text-gray-600">Bugema University</p>
                 </div>
               </div>
             </div>
@@ -63,8 +63,8 @@ export default function ContactPageOne() {
                 <Phone className="w-6 h-6 text-red-600 mt-1" />
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Phone</h3>
-                  <p className="text-gray-600">256414533277</p>
-                  <p className="text-gray-600">Whatsapp: +256772637498</p>
+                  <p className="text-gray-600">+256 780229050 </p>
+                  <p className="text-gray-600">Whatsapp: +256 780229050 </p>
                 </div>
               </div>
             </div>
@@ -74,7 +74,7 @@ export default function ContactPageOne() {
                 <Mail className="w-6 h-6 text-red-600 mt-1" />
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Email</h3>
-                  <p className="text-gray-600">info@straighttalkfoundation.org</p>
+                  <p className="text-gray-600"> initiateug@gmail.com </p>
                 </div>
               </div>
             </div>
