@@ -102,15 +102,15 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start space-x-3">
                 <MapPin className="h-6 w-6 text-green-400" />
-                <span className="text-gray-400">Plot 47 Ntinda II Road, Kampala, Uganda</span>
+                <span className="text-gray-400">Bugema University, Uganda</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-6 w-6 text-green-400" />
-                <span className="text-gray-400">+256 414 667 630</span>
+                <span className="text-gray-400">+256 780229050</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="h-6 w-6 text-green-400" />
-                <span className="text-gray-400">info@girlupuganda.org</span>
+                <span className="text-gray-400">initiateug@gmail.com</span>
               </li>
             </ul>
           </div>
