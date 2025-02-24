@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function HeroSection() {
   return (
     <div className="w-full">
@@ -19,9 +21,11 @@ export default function HeroSection() {
               Straight Talk Foundation (STF) is a leading Ugandan communication for development non-government
               organization that was registered in 1997 and operates nationally...
             </p>
-            <button className="bg-white text-red-600 px-6 py-2 rounded-full font-medium hover:bg-gray-100 transition-colors">
-              Read More
-            </button>
+            <Link href="/about">
+              <button className="bg-white text-red-600 px-6 py-2 rounded-full font-medium hover:bg-gray-100 transition-colors">
+                Read More
+              </button>
+            </Link>
           </div>
         </div>
       </div>
